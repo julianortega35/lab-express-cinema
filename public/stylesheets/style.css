@@ -1,0 +1,36 @@
+.index-body{
+  background-image: url(/images/cinema.jpg);
+  background-size: cover;
+  background-repeat:no repeat;
+  text-align: center;
+
+}
+
+
+body {
+
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+  text-decoration: none;
+
+}
+
+
+.index-title{
+color: white;
+
+}
+
+.movies-section{
+
+text-align: center;
+font-size: 18px;
+}
+
+
+/*# sourceMappingURL=style.css.map */
+
